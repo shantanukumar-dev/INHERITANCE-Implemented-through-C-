@@ -1,4 +1,4 @@
-# INHERITANCE-Implemented-through-C-
+# INHERITANCE-Implemented-IN-C++
 THE CAPABILITY OF A CLASS TO DERIVE PROPERTY AND CHARACTERSTICS FROM ANOTHER CLASS.
 There are three types access modifiers are there
            ->PRIVATE
